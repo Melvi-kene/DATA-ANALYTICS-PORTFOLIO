@@ -24,17 +24,26 @@ Analyze historical sales data of CafeNova, a casual dining chain, to uncover tre
 **Dashboard Preview:**  
 ![CafeNova Dashboard](https://github.com/Melvi-kene/DATA-ANALYTICS-PORTFOLIO/blob/main/CafeNova/CAFENOVA/Dashboard%20Screenshot.png)
 
-**Insights:**  
-- Main dishes generate the highest revenue (pasta alfredo & grilled chicken lead)  
-- Loyal customers like `CUST_089` drive repeat sales  
-- Peak sales in **Oct 2022** and **May 2023** show seasonal opportunities  
-- Cash & credit cards dominate payments, while digital wallet adoption is low  
+**Performance Highlights:**  
+- Main dishes generate the most revenue, led by Pasta Alfredo and Grilled Chicken  
+- Loyal customers like `CUST_089` contribute significantly to repeat orders  
+- Peak sales in **Oct 2022** and **May 2023** indicate seasonal opportunities  
+- Cash & credit cards are the most preferred payment methods  
 
-**Recommendations:**  
-- Launch festive & seasonal campaigns (especially in December & February)  
-- Create a loyalty/referral program to boost retention  
-- Introduce new variations of best-selling dishes  
-- Encourage digital wallet use with discounts or rewards  
+**Performance Gaps:**  
+- Total sales declined in 2023 compared to 2022  
+- February recorded the lowest sales in both years  
+- December underperformed despite being a holiday month  
+- Digital wallet usage remains low compared to other payment options  
+
+**Strategic Recommendations:**  
+- Launch festive campaigns and targeted promotions in December and February  
+- Implement a loyalty or referral program to retain and attract customers  
+- Introduce new variations of best-selling main dishes  
+- Consider bundling items (e.g., main + starter) to increase order value  
+- Encourage digital wallet use with small discounts or reward incentives  
+- Investigate causes of 2023 sales drop, consider customer feedback or external factors  
+- Set up monthly sales review to track trends and act on early performance dips  
 
 📂 [View Dataset](https://github.com/Melvi-kene/DATA-ANALYTICS-PORTFOLIO/blob/main/CafeNova/CAFENOVA/CAFENOVA_EKENE_OZ0BIALU_DASHBOARD.xlsx)  
 
